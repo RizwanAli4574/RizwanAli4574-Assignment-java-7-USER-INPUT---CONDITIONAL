@@ -1,6 +1,6 @@
-alert("Reply all answers in (sentence case) For example Lion not lion ")
+alert("Reply all answers in (sentence case) For example Lion not lion")
 
-document.write("<h3>Q.No 1</h3> <br> <br> Result Show in alert box")
+document.write("<h3> Q.No 1 : </h3> <br> <br> Result Show in alert box ")
 var city = prompt ("Enter Karachi")
 if (city == "Karachi") {
     alert("Welcome to city of lights")
@@ -117,7 +117,7 @@ document.write("<br> <br>")
 document.write("80 or 80 plus is A+ Grade <br> 70 or 70 plus is A Grade <br> 60 or 60 plus is B Grade <br> Less Than 60 Total subject or One Subject is Fail")
 
 document.write("<br> <br>")
-document.write("<h3>Q.No 8</h3> : <br> <br> Result Show in alert box")
+document.write("<h3>Q.No 8 : </h3> <br> <br> Result Show in alert box")
 var sercetNum = + prompt ("Guess the secret number")
 if (sercetNum == "5" ){
     alert("“Bingo! Correct answer”.")
@@ -131,7 +131,7 @@ else if ( sercetNum == "4"){
 }
 
 document.write("<br> <br>")
-document.write("<h3>Q.No 9</h3> : <br> <br> Result Show in alert box")
+document.write("<h3>Q.No 9 :</h3>  <br> <br> Result Show in alert box")
 var giveNum = + prompt ("Give a any number from 1 to 10")
 if (giveNum == "3"){
     alert("Your number is available for divide by 3 is equely")
@@ -146,7 +146,7 @@ else if (giveNum == "9"){
 
 
 document.write("<br> <br>")
-document.write("<h3>Q.No 10</h3> : <br> <br> Result Show in alert box")
+document.write("<h3>Q.No 10 : </h3>  <br> <br> Result Show in alert box")
 var giveNum1 = + prompt ("Give a any number from 1 to 10")
 if (giveNum1 == "1"){
     alert("Your number is odd")
@@ -183,7 +183,7 @@ else {
 }
 
 document.write("<br> <br>")
-document.write("<h3>Q.No 11</h3> : <br> <br> Result Show in alert box")
+document.write("<h3>Q.No 11 : </h3>  <br> <br> Result Show in alert box")
 var tep = + prompt ("Enter wether temperature")
 if (tep >= "40"){
     alert("“It is too hot outside.”")
@@ -203,7 +203,7 @@ else alert("Please enter wether temperature")
    
 
 document.write("<br> <br>")
-document.write("<h3>Q.No 12</h3> : <br> <br> Result Show in alert box")
+document.write("<h3>Q.No 12 : </h3>  <br> <br> Result Show in alert box")
  var cal = + prompt ("Enter first number");
  var cal1 = + prompt ("Enter seconed number")
  var opr = prompt ("Enter Opreter * , / , + , -")
