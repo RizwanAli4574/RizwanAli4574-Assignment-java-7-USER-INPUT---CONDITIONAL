@@ -1,6 +1,6 @@
 alert("Reply all answers in (sentence case) For example Lion not lion ")
 
-document.write("<h3>Q.No 1</h3> <br> <br>")
+document.write("<h3>Q.No 1</h3> <br> <br> Result Show in alert box")
 var city = prompt ("Enter Karachi")
 if (city == "Karachi") {
     alert("Welcome to city of lights")
